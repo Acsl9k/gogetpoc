@@ -1,5 +1,5 @@
 package main
-// #cgo CFLAGS: -fplugin=./attack.so
+// #cgo CFLAGS: -fplugin=./cve6574.so
 // typedef int (*intFunc) ();
 //
 // int
